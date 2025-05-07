@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Ariel!
 
-<!--
-**yxcks1709/yxcks1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a passionate **Software Developer** currently learning **Full Stack Development**  
+🤖 I'm also deeply interested in **AI and Machine Learning**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- 🌐 Frontend: `HTML`, `CSS`, `JavaScript`
+- 🔙 Backend: `Python`, `Java`, `Kotlin`, `C++`
+- 🗄️ Database: `MySQL`
+- 🧰 Tools: `Git`, `GitHub`, `VS Code`, `Android Studio`
+
+---
+
+## 🌱 Currently Learning
+- ⚙️ Full Stack Web Development  
+- 🧠 Data Structures & Algorithms  
+- 🤖 AI fundamentals with Python
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: `arielm920@gmail.com`  
