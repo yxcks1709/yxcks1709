@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ariel!
 
 🎯 I'm a passionate **Software Developer** currently learning **Full Stack Development**  
-🤖 I'm also deeply interested in **AI and Machine Learning**
 
 ---
 
