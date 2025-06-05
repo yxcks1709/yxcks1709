@@ -15,7 +15,6 @@
 ## 🌱 Currently Learning
 - ⚙️ Full Stack Web Development  
 - 🧠 Data Structures & Algorithms  
-- 🤖 AI fundamentals with Python
 
 ---
 
